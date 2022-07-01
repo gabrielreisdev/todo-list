@@ -41,7 +41,7 @@ onMounted(() => {
 		
 		<section class="greeting">
 			<h2 class="title">
-				E aí, <input type="text" id="name" placeholder="Name here" v-model="name">
+				E aí, <input type="text" id="name" placeholder="escreva seu nome" v-model="name">
 			</h2>
 		</section>
 
